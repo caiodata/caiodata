@@ -1,32 +1,20 @@
-<div align="center">
-  <img src="https://img.shields.io/static/v1?message=Twitter&logo=twitter&label=&color=1DA1F2&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="twitter logo"  />
-</div>
+<h1 align="center">Welcome 👋</h1>
 
 ###
 
-<div align="center">
-  <img src="https://visitor-badge.laobi.icu/badge?page_id=caiodata.caiodata&"  />
-</div>
+<h3 align="left">😎 About Me</h3>
 
 ###
 
-<h1 align="center">Bem vindo👋</h1>
+<p align="left">I'm Caio Ximenes from Brazil<br>- Working as Data Scientist</p>
 
 ###
 
-<h3 align="left">👩‍💻  About Me</h3>
+<h3 align="left">⚙️ Language and tools</h3>
 
 ###
 
-<p align="center">I'm Caio Ximenes from Brazil<br>- 🔭 I’m working as Data Scientist<br>- 📚 I'm currently learning AI</p>
-
-###
-
-<h3 align="left">🛠 Language and tools</h3>
-
-###
-
-<div align="center">
+<div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" alt="python logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original.svg" height="40" alt="numpy logo"  />
@@ -48,12 +36,20 @@
 
 ###
 
-<h3 align="left">🔥   My Stats :</h3>
+<h3 align="left">📈 My Stats :</h3>
+
+###
+
+<div align="left">
+  <img src="https://streak-stats.demolab.com?user=caiodata&locale=en&mode=daily&theme=dark&hide_border=false&border_radius=5&order=3" height="220" alt="streak graph"  />
+</div>
 
 ###
 
 <div align="center">
-  <img src="https://streak-stats.demolab.com?user=caiodata&locale=en&mode=daily&theme=dark&hide_border=false&border_radius=5&order=3" height="220" alt="streak graph"  />
+  <a href="https://open.spotify.com/user/![Alt text](https://spotify-recently-played-readme.vercel.app/api?user=316udialhawe7fnmvnl7av7pm6m4&unique={true|1|on|yes})">
+    <img src="https://spotify-recently-played-readme.vercel.app/api?user=!%5BAlt%20text%5D(https://spotify-recently-played-readme.vercel.app/api?user=316udialhawe7fnmvnl7av7pm6m4&unique=%7Btrue%7C1%7Con%7Cyes%7D)&count=5" alt="Spotify recently played"  />
+  </a>
 </div>
 
 ###
